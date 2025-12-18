@@ -33,3 +33,9 @@ A .txt document that contains a empty table created by Tag Search. The table ind
 
 ![Screenshot of a .txt document that contains a table with hashtags placed inside. As you can see the hashtags "mindy" and "fox" are inside the box and the hashtag "apple" is outside of the box. The box can extend past it's original width.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/txt%20hashtags.png)
 A .txt document that contains a table with hashtags placed inside. As you can see the hashtags "mindy" and "fox" are inside the box and the hashtag "apple" is outside of the box. The box can extend past it's original width.
+
+## To-Do List
+- [ ] Usage guide within the application. 👨‍🏫
+- [ ] Function that generates an entire list of all hashtags within all documents. #️⃣🗒️
+- [ ] Bonus: Enable color themes. 🌈
+- [ ] Accept that the application is finished. 🥳 
