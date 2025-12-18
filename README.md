@@ -5,7 +5,7 @@ Tag Search is a Powershell tool that can be used to look through all **.txt docu
 ## About
 The idea for this application came about over a long period of time. I once dreamt up of a notepad application that has features like hashtags, tabs and code blocks. I never started work on this version of notepad but still wanted to make something to enhance the experience. So I thought of this little extension to impliment hashtags in some way.
 
-## Instructions
+## Usage
 In order to properly use Tag Search, the instructions are actually quite simple.
 
 1. Drop the **tag-search.ps1** script into any directory. Sub directories are not required but the script will also go through sub directories.
@@ -18,3 +18,18 @@ In order to properly use Tag Search, the instructions are actually quite simple.
 8. After searching, you are free to continue using the application. :)
 
 ## Screenshots
+### _Script_
+![Screenshot of Tag Search table building function indicating to the user that both tables already exist and a table was built.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/tables.png)
+Table building function indicating to the user that both tables already exist and a table was built.
+
+![Screenshot of a failed hashtag search. In this instance it is for the hashtag "apple".](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/apple.png)
+Failed hashtag search. In this instance it is for the hashtag "apple".
+
+![Screenshot of a successful hashtag search. In this instance it is for the hashtag "mindy". It displays all documents that have the hashtag attached to it.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/mindy.png)
+Successful hashtag search. In this instance it is for the hashtag "mindy". It displays all documents that have the hashtag attached to it.
+
+![Screenshot of a .txt document that contains a empty table created by Tag Search. The table idicates to the user where to place the hashtags]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/hashtag%20box.png))
+A .txt document that contains a empty table created by Tag Search. The table indicates to the user where to place the hashtags.
+
+![Screenshot of a .txt document that contains a table with hashtags placed inside. As you can see the hashtags "mindy" and "fox" are inside the box and the hashtag "apple" is outside of the box. The box can extend past it's original width.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/txt%20hashtags.png)
+A .txt document that contains a table with hashtags placed inside. As you can see the hashtags "mindy" and "fox" are inside the box and the hashtag "apple" is outside of the box. The box can extend past it's original width.
