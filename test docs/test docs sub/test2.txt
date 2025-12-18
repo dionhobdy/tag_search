@@ -1,0 +1,15 @@
+         +-------------------------------------------+
+         |                                           | 
+         |                                           | 
+         |                               #mindy            | 
+         |                   #fox                        | 
+         |                                           | 
+         |                                           | 
+         +-------------------------------------------+
+
+
+This is a test document used to insure that Tag Search works properly.
+
+
+
+#apple
