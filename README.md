@@ -28,7 +28,7 @@ Failed hashtag search. In this instance it is for the hashtag "apple".
 ![Screenshot of a successful hashtag search. In this instance it is for the hashtag "mindy". It displays all documents that have the hashtag attached to it.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/mindy.png)
 Successful hashtag search. In this instance it is for the hashtag "mindy". It displays all documents that have the hashtag attached to it.
 
-![Screenshot of a .txt document that contains a empty table created by Tag Search. The table idicates to the user where to place the hashtags]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/hashtag%20box.png))
+![Screenshot of a .txt document that contains a empty table created by Tag Search. The table idicates to the user where to place the hashtags]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/hashtag%20box.png)
 A .txt document that contains a empty table created by Tag Search. The table indicates to the user where to place the hashtags.
 
 ![Screenshot of a .txt document that contains a table with hashtags placed inside. As you can see the hashtags "mindy" and "fox" are inside the box and the hashtag "apple" is outside of the box. The box can extend past it's original width.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/txt%20hashtags.png)
