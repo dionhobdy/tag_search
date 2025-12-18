@@ -3,7 +3,7 @@
 Tag Search is a Powershell tool that can be used to look through all **.txt documents** in it's parent directory (and it's sub directories) and outputting the results based on searched hashtags.
 
 ## About
-The idea for this application came about over a long period of time. I once dreamt up of a notepad application that has features like hashtags, tabs and code blocks. I never started work on this version of notepad but still wanted to make something to enhance the experience. So I thought of this little extension to impliment hashtags in some way.
+The idea for this application came about over a long period of time. I once dreamt up of a notepad application that has features like hashtags, tabs and code blocks. I never started work on this version of notepad but still wanted to make something to enhance the experience. So I thought of this little extension to impliment hashtags in some way. This is just a short term side project while I work on a major project.
 
 ## Usage
 In order to properly use Tag Search, the instructions are actually quite simple.
