@@ -18,6 +18,7 @@ In order to properly use Tag Search, the instructions are actually quite simple.
 8. After searching, you are free to continue using the application. :)
 
 ## Screenshots
+Some screenshots are censored to keep my main directories private due to shared space with other projects.
 ### _Script_
 ![Screenshot of Tag Search table building function indicating to the user that both tables already exist and a table was built.](https://raw.githubusercontent.com/dionhobdy/tag_search/refs/heads/main/assets/tables.png)
 Table building function indicating to the user that both tables already exist and a table was built.
